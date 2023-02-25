@@ -1,16 +1,14 @@
-<br>
+## Checklist
 
-<p align='center'>
-<a href="https://vitecamp.netlify.app/">Live Demo</a>
-</p>
+When you use this template, try follow the checklist to update your info properly
 
-<br>
+- [x] Change the author name in `LICENSE`
+- [x] Change the author name in `package.json`
+- [x] Change the title in `.env`
+- [ ] Change the favicon in `public`
+- [ ] Clean up the `README` and remove routes
 
-<p align='center'>
-<b>English</b> | <a href="https://github.com/nekobc1998923/vitecamp/blob/master/README.zh-CN.md">简体中文</a>
-</p>
-
-<br>
+And then , you can enjoy coding fun :)
 
 ## Features
 
